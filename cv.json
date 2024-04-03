@@ -206,11 +206,12 @@
       "isActive": true,
       "description": "Chat para hablar con tu PDF mediande un analicis de IA y respuesta con GPT-4",
       "highlights": ["BackEnd", "En desarrollo", "Imcompleta", "Astro", "IA"],
-      "url": "https://github.com/Samuel-RM/Chat-whit-PDF"
+      "url": "https://github.com/Samuel-RM/Chat-whit-PDF",
+      "github": "https://github.com/Samuel-RM/Chat-whit-PDF"
     },
     {
       "name": "RestFull Api",
-      "isActive": false,
+      "isActive": true,
       "description": "Una REST API que simula un Crud de un servicio de peliculas  ",
       "highlights": ["BackEnd", "En desarrollo", "FastAPI"],
       "url": "https://github.com/Samuel-RM/API-movie-sql"
